@@ -1,6 +1,6 @@
 # Data Mining Lab Repository
 
-This repository contains notebook-based lab work and datasets for a Data Mining course. Each notebook captures a lab exercise or experiment workflow, including preprocessing, model building, and evaluation.
+This repository contains notebook-based lab work and datasets of my Data Mining Lab course. Each notebook captures a lab exercise or experiment workflow, including preprocessing, model building, and evaluation.
 
 ## Repository Contents
 
